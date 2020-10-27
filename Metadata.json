@@ -1,0 +1,20 @@
+{
+    "Author": "Razi Rais",
+    "ContentSize": 2566,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/report-azure-vms-unused-disks-space/master/ListUnusedAzureDisks.ps1",
+    "DownloadCount": 1253,
+    "Id": "Report-Azure-VMs-unused-ac6a9916",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 248,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-4-11T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Azure automation runbook that reports the unused disk space by the Azure VMs. You can use azure automation schedule feature to execute this runbook on regular basis and keep track of unused disks residing on the storage. Info: http://razibinrais.com/blog/2015/04/11/blog.htm",
+    "Title": "Report Azure VMs unused disks space",
+    "UpdatedDate": "2015-4-11T00:00:00",
+    "Url": "https://github.com/azureautomation/report-azure-vms-unused-disks-space",
+    "UserTags": "Microsoft Azure, Automation, Powershell Script"
+}
